@@ -1,4 +1,4 @@
-package Http
+package com.example.randomuserapp.Http
 
 import android.net.http.HttpResponseCache.install
 import android.util.Log

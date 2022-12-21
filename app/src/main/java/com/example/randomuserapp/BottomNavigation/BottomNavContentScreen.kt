@@ -1,4 +1,4 @@
-package BottomNavigation
+package com.example.randomuserapp.BottomNavigation
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column

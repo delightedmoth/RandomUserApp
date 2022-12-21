@@ -1,6 +1,6 @@
 package com.example.randomuserapp
 
-import BottomNavigation.MainScreenView
+import com.example.randomuserapp.BottomNavigation.MainScreenView
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent

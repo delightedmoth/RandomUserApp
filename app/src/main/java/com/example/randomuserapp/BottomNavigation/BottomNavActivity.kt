@@ -1,4 +1,4 @@
-package BottomNavigation
+package com.example.randomuserapp.BottomNavigation
 
 import android.annotation.SuppressLint
 import androidx.compose.foundation.background
@@ -29,13 +29,13 @@ import com.example.randomuserapp.*
 import com.example.randomuserapp.R
 
 
+@SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @Composable
 fun MainScreenView(){
     val navController = rememberNavController()
     Scaffold(
         bottomBar = { BottomNavigation(navController = navController) }
     ) {
-
         NavigationGraph(navController = navController)
     }
 }

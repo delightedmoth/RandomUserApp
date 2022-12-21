@@ -1,4 +1,4 @@
-package Http
+package com.example.randomuserapp.Http
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable

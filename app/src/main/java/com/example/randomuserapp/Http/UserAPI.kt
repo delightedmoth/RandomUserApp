@@ -1,6 +1,8 @@
-package Http
+package com.example.randomuserapp.Http
 
 import io.ktor.client.*
+import io.ktor.client.features.*
+import io.ktor.client.features.get
 import io.ktor.client.request.*
 
 

@@ -1,4 +1,4 @@
-package BottomNavigation
+package com.example.randomuserapp.BottomNavigation
 
 import com.example.randomuserapp.R
 
